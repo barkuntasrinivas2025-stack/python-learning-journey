@@ -74,8 +74,8 @@ Every day has a folder with practice scripts and notes.
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 1 | Setup, variables, data types, f-strings | ⬜ |
-| 2 | Conditionals, loops, break/continue | ⬜ |
+| 1 | Setup, variables, data types, f-strings | ✅ |
+| 2 | Conditionals, loops, break/continue | ✅ |
 | 3 | Functions, recursion, scope | ⬜ |
 | 4 | Lists, tuples, list comprehensions | ⬜ |
 | 5 | Dictionaries, sets, nested structures | ⬜ |
