@@ -1,0 +1,7 @@
+a = int (input("Enter a Grade: "))
+if(a >= 90 ):print("The Grade is A")
+elif(a >= 80):print("The Grade is B")
+elif(a >= 70):print("The Grade is C")
+elif(a >= 60): print("The Grade is D")
+elif(a >= 35):print("The Grade is F")
+else:print("Invalid Grade")
