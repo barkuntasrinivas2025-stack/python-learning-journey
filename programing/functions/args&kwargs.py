@@ -30,7 +30,7 @@ def main():
     global y
     # y = 20
     print(f"Inside main - Local variable x: {x}, Global variable y: {y}")
-    #---------------------------------------------------------------
+#---------------------------------------------------------------
 main()
 local_variable()
 global_variable()

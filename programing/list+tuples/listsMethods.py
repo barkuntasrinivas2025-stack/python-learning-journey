@@ -9,7 +9,7 @@ def listMethods():
     last=list.pop()
     list.append("cherry")
     print(last)
-    list.remove(2)
+    # list.remove(2)
     # print(first)
     print(list)
     print(newList)
