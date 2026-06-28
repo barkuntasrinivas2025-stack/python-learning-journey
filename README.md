@@ -76,23 +76,23 @@ Every day has a folder with practice scripts and notes.
 |-----|-------|--------|
 | 1 | Setup, variables, data types, f-strings | ✅ |
 | 2 | Conditionals, loops, break/continue | ✅ |
-| 3 | Functions, recursion, scope | ⬜ |
-| 4 | Lists, tuples, list comprehensions | ⬜ |
-| 5 | Dictionaries, sets, nested structures | ⬜ |
-| 6 | Strings deep dive, palindrome, anagram | ⬜ |
-| 7 | Revision + Contact Book CLI mini project | ⬜ |
+| 3 | Functions, recursion, scope | ✅ |
+| 4 | Lists, tuples, list comprehensions | ✅ |
+| 5 | Dictionaries, sets, nested structures | ✅ |
+| 6 | Strings deep dive, palindrome, anagram | ✅ |
+| 7 | Revision + Contact Book CLI mini project | ✅ |
 
 ### Week 2 — OOP + DSA patterns
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 8 | OOP — classes, inheritance, dunder methods | ⬜ |
-| 9 | File handling, JSON, error handling | ⬜ |
-| 10 | DSA Pattern 1 — arrays + hashmaps | ⬜ |
-| 11 | DSA Pattern 2 — two pointers | ⬜ |
-| 12 | DSA Pattern 3 — sliding window | ⬜ |
-| 13 | DSA Pattern 4 — stack + recursion | ⬜ |
-| 14 | Readiness check — first 5 problems from the 90-day list | ⬜ |
+| 8 | OOP — classes, inheritance, dunder methods | ✅ |
+| 9 | File handling, JSON, error handling | ✅ |
+| 10 | DSA Pattern 1 — arrays + hashmaps | ✅ |
+| 11 | DSA Pattern 2 — two pointers | ✅ |
+| 12 | DSA Pattern 3 — sliding window | ✅ |
+| 13 | DSA Pattern 4 — stack + recursion | ✅ |
+| 14 | Readiness check — first 5 problems from the 90-day list | ✅ |
 
 > Update ⬜ to ✅ as each day is completed.
 
